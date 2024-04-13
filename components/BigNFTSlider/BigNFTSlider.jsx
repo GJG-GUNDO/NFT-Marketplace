@@ -176,10 +176,10 @@ const BigNFTSlider = () => {
               </div>
             </div>
 
-            <div className={Style.bigNFTSlider_box_left_button}>
+            {/* <div className={Style.bigNFTSlider_box_left_button}>
               <Button btnName="Place" handleClick={() => {}}></Button>
               <Button btnName="View" handleClick={() => {}}></Button>
-            </div>
+            </div> */}
           </div>
 
           <div className={Style.bigNFTSlider_box_left_sliderBtn}>

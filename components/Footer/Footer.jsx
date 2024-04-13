@@ -60,12 +60,12 @@ function Footer() {
 
         <div className={Style.subscribe}>
           <h3>Subscribe</h3>
-          <div className={Style.subscribe_box}>
+          {/* <div className={Style.subscribe_box}>
             <input type="email" placeholder="Enter the email *"></input>
             <RiSendPlaneFill
               className={Style.subscribe_box_send}
             ></RiSendPlaneFill>
-          </div>
+          </div> */}
           <div className={Style.subscribe_box_info}>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit,

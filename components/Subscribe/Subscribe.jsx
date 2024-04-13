@@ -22,10 +22,10 @@ const Subscribe = () => {
             <span>02</span>
             <small>Get Premium Magazines</small>
           </div>
-          <div className={Style.subscribe_box_left_input}>
-            <input type="email" placeholder="Enter Your Email" />
-            <RiSendPlaneFill className={Style.subscribe_box_left_input_icon} />
-          </div>
+          {/* <div className={Style.subscribe_box_left_input}> */}
+            {/* <input type="email" placeholder="Enter Your Email" /> */}
+            {/* <RiSendPlaneFill className={Style.subscribe_box_left_input_icon} /> */}
+          {/* </div> */}
         </div>
         <div className={Style.subscribe_box_right}>
           <Image

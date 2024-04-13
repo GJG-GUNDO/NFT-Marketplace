@@ -229,11 +229,11 @@ const UploadNFT = ({ uploadToIPFS, createNFT }) => {
             }
             classStyle={Style.upload_box_btn_style}
           />
-          <Button
+          {/* <Button
             btnName="Preview"
             handleClick={() => {}}
             classStyle={Style.upload_box_btn_style}
-          />
+          /> */}
         </div>
       </div>
     </div>
