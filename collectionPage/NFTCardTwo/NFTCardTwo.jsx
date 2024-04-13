@@ -1,9 +1,11 @@
 import React, { useState } from "react";
+import Link from "next/link";
+
 import Image from "next/image";
 import { BsImage } from "react-icons/bs";
 import { AiFillHeart, AiOutlineHeart } from "react-icons/ai";
 import { MdVerified, MdTimer } from "react-icons/md";
-import Link from "next/Link";
+
 //INTERNAL IMPORT
 import Style from "./NFTCardTwo.module.css";
 import { LikeProfile } from "../../components/componentsIndex";
