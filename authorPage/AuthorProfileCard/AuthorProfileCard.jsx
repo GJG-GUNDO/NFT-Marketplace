@@ -104,11 +104,11 @@ const AuthorProfileCard = ({currentAccount}) => {
         </div>
 
         <div className={Style.AuthorProfileCard_box_share}>
-          <Button btnName="Follow" handleClick={() => {}} />
+          {/* <Button btnName="Follow" handleClick={() => {}} />
           <MdCloudUpload
             onClick={() => openShare()}
             className={Style.AuthorProfileCard_box_share_icon}
-          />
+          /> */}
 
           {share && (
             <div className={Style.AuthorProfileCard_box_share_upload}>
@@ -143,10 +143,10 @@ const AuthorProfileCard = ({currentAccount}) => {
             </div>
           )}
 
-          <BsThreeDots
+          {/* <BsThreeDots
             onClick={() => openReport()}
             className={Style.AuthorProfileCard_box_share_icon}
-          />
+          /> */}
 
           {report && (
             <p className={Style.AuthorProfileCard_box_share_report}>
