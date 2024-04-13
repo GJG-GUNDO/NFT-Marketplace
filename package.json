@@ -18,7 +18,8 @@
     "react-dom": "18.2.0",
     "react-dropzone": "^14.2.3",
     "react-icons": "^5.0.1",
-    "web3modal": "^1.9.12"
+    "web3modal": "^1.9.12",
+    "ipfs-http-client": "^60.0.0"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.2",

@@ -4,7 +4,7 @@ import { useRouter } from "next/router";
 
 //INTERNAL IMPORT
 import Style from "./HeroSection.module.css";
-import { Button } from "../componentsindex";
+import { Button } from "../componentsIndex";
 import images from "../../img";
 
 //SMART CONTRACT IMPORT
